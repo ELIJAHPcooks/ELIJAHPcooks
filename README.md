@@ -17,5 +17,5 @@
 
 
 
-[linkedin]: www.linkedin.com/in/elijah-powell-0322211b9
+[linkedin]: https://linkedin.com/in/Josh
 
