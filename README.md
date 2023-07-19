@@ -18,5 +18,5 @@
 
 
 
-[linkedin]: https://linkedin.com/in/ElijahDPowell
+[linkedin]: www.linkedin.com/in/elijah-d-powell
 
