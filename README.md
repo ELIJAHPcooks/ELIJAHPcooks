@@ -18,6 +18,6 @@
 
 
 
-[linkedin]: www.linkedin.com/in/elijah-d-powell
+[linkedin]: www.linkedin.com/in/elijahdpowell
 
 
