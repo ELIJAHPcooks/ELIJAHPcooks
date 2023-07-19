@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ELIJAHPcooks/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ELIJAHPcooks/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ELIJAHPcooks/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ELIJAHPcooks/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ELIJAHPcooks/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ELIJAHPcooks/azure-network-protocols)
